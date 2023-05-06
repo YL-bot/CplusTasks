@@ -1,6 +1,6 @@
 #include <iostream>
  
-int main() {
+int main() { //просто печатаем текст с помощью std:cout
     std::cout << "C++ is a general-purpose programming language with a bias towards systems programming that\n";
     std::cout << "  - is a better C\n";
     std::cout << "  - supports data abstraction\n";
